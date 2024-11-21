@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Relaxing Plan",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione aut minima dolorem eius neque a consequuntur aliquam, error aperiam dolores.",
+        "price": 50,
+        "period": "month"
+    },
+    {
+        "title": "Revitalizing Plan",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione aut minima dolorem eius neque a consequuntur aliquam, error aperiam dolores.",
+        "price": 90,
+        "period": "month"
+    },
+    {
+        "title": "Therapeutic Plan",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione aut minima dolorem eius neque a consequuntur aliquam, error aperiam dolores.",
+        "price": 150,
+        "period": "month"
+    }
+]
